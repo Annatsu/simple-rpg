@@ -1,0 +1,32 @@
+{
+  "name": "simple-rpg",
+  "version": "0.0.1",
+  "description": "An RPG game built with phaser for studying purposes",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Annatsu/simple-rpg.git"
+  },
+  "keywords": [
+    "game",
+    "rpg",
+    "phaser",
+    "electron"
+  ],
+  "author": "Brendon Pagano",
+  "contributors": [
+    {
+      "name": "Brendon Pagano",
+      "email": "brendonpagano@gmail.com",
+      "url": "https://github.com/Annatsu"
+    }
+  ],
+  "bugs": {
+    "url": "https://github.com/Annatsu/simple-rpg/issues"
+  },
+  "homepage": "https://github.com/Annatsu/simple-rpg#readme",
+  "license": "MIT"
+}
