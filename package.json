@@ -28,5 +28,9 @@
     "url": "https://github.com/Annatsu/simple-rpg/issues"
   },
   "homepage": "https://github.com/Annatsu/simple-rpg#readme",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^1.7.12",
+    "phaser-ce": "2.10.0"
+  }
 }
