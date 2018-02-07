@@ -4,7 +4,7 @@
   "description": "An RPG game built with phaser for studying purposes",
   "main": "index.js",
   "scripts": {
-    "start": "node ."
+    "start": "electron ."
   },
   "repository": {
     "type": "git",
@@ -31,6 +31,6 @@
   "license": "MIT",
   "dependencies": {
     "electron": "^1.7.12",
-    "phaser-ce": "2.10.0"
+    "phaser-ce": "^2.10.0"
   }
 }
