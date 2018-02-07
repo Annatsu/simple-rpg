@@ -31,6 +31,7 @@
   "license": "MIT",
   "dependencies": {
     "electron": "^1.7.12",
-    "phaser-ce": "^2.10.0"
+    "phaser-ce": "^2.10.0",
+    "webpack": "^3.10.0"
   }
 }
